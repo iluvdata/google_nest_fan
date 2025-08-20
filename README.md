@@ -3,7 +3,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square&logo=homeassistantcommunitystore)](https://hacs.xyz/)
 ![GitHub Release](https://img.shields.io/github/v/release/iluvdata/google_nest_fan)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Filuvdata%2Fgoogle_nest_fan%2Frefs%2Ftags%2F2025.7.1%2Fcustom_components%2Ftplink_cloud%2Fmanifest.json&query=%24.version&prefix=v&label=dev-version)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Filuvdata%2Fgoogle_nest_fan%2Frefs%2Fheads%2Fmain%2Fcustom_components%2Fgoogle_nest_fan%2Fmanifest.json&query=%24.version&prefix=v&label=dev-version&labelColor=orange)
 
 
 A custom HomeAssistant integration that creates two additional entities for each Google Device with a Fan "trait" such as a Nest Thermostat.  These entities will allow you to set the fan to run for a customized amount of time (rather than the 12 hours hard coded into the core [Google Nest](https://www.home-assistant.io/integrations/nest/) integration.  The core Google Nest Integration must be configured and working for this integration to work.
