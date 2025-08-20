@@ -1,0 +1,18 @@
+{
+  "domain": "google_nest_fan",
+  "name": "Google Nest Fan Customization",
+  "codeowners": ["@iluvdata"],
+  "config_flow": true,
+  "single_config_entry": true,
+  "dependencies": ["nest"],
+  "documentation": "https://github.com/iluvdata/google_nest_fan",
+  "homekit": {},
+  "iot_class": "cloud_push",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "version": "2025.8.1",
+  "integration_type": "service",
+  "issue_tracker": "https://github.com/iluvdata/google_nest_fan/issues"
+}

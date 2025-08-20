@@ -1,0 +1,12 @@
+{
+  "config": {
+    "abort": {
+      "nest_not_loaded": "Nest integration is not configured.",
+      "no_thermostats": "No Nest fans/thermostats associated with the Nest Integration."
+    }
+  },
+  "error": {
+    "nest_not_loaded": "Nest integration is not configured.",
+    "no_thermostats": "No Nest fans/thermostats associated with the Nest Integration."
+  }
+}
